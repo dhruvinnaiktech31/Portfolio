@@ -77,10 +77,14 @@ export default function Contact() {
           </div>
           <div className="md:col-span-2 flex items-center justify-between">
             <div className="flex gap-3 text-sm text-neutral-600 dark:text-neutral-400">
-              <a href="#" className="hover:underline">LinkedIn</a>
-              <a href="#" className="hover:underline">GitHub</a>
-              <a href="#" className="hover:underline">Instagram</a>
-              <a href="#" className="hover:underline">Email</a>
+              <a href="https://www.linkedin.com/in/dhruvinnaik2108/" className="hover:underline"   target="_blank"
+  rel="noopener noreferrer">LinkedIn</a>
+              <a href="https://github.com/dhruvinnaiktech31" className="hover:underline"   target="_blank"
+  rel="noopener noreferrer">GitHub</a>
+              <a href="https://www.instagram.com/naik_tech/" className="hover:underline"  target="_blank"
+  rel="noopener noreferrer">Instagram</a>
+              <a href="https://mail.google.com/mail/u/0/?fs=1&to=dhruvin.naik.tech31@gmail.com&su=Hire+Request&tf=cm" className="hover:underline"    target="_blank"
+  rel="noopener noreferrer">Email</a>
             </div>
             <button
               type="submit"
